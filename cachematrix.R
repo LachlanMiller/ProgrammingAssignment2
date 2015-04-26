@@ -8,7 +8,7 @@
 ## and how they can be manipulated to preserve state inside of an R object.
 
 
-## makeCache Matris creates a special "vector", which is really a list containing a function to
+## makeCacheMatrix creates a special "vector", which is really a list containing a function to
 ## set the value of the matrix
 ## get the value of the matrix
 ## set the value of the inverted matrix
